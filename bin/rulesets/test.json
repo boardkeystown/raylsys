@@ -1,0 +1,19 @@
+{
+    "axiom": "F",
+    "angle": 90.0,
+    "length": [
+        35,
+        0
+    ],
+    "iterations": 15,
+    "rules": [
+        {
+            "symbol": "F",
+            "rule": "F+G"
+        },
+        {
+            "symbol": "G",
+            "rule": "F-G"
+        }
+    ]
+}

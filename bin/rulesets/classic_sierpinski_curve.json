@@ -1,0 +1,15 @@
+{
+    "axiom": "F--XF--F--XF",
+    "angle": 45,
+    "length": [
+        0,
+        15
+    ],
+    "iterations": 5,
+    "rules": [
+        {
+            "symbol": "X",
+            "rule": "XF+F+XF--F--XF+F+X"
+        }
+    ]
+}
